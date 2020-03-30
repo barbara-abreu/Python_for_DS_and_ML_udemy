@@ -52,3 +52,9 @@ Notebook with data analysis using natural language processing on a set of text m
 #### 02-Support Vector Machines Project.ipynb	
 
 Notebook with data analysis using SVMs on the iris flower dataset.
+
+#### Part1_Keras_project.ipynb + Part2_Keras_project.ipynb
+Notebooks regarding the final project on the neural networks chapter. The data set used is a subset of the LendingClub DataSet obtained from Kaggle.
+
+I had to create two notebooks, because the first one was getting a bit too heavy, leading to slow performance and kernel interrupting. Additionally, things got messy and I decided to start from scratch.
+The first notebook Part1_Keras_project.ipynb contains the part of data exploration and visualization, while the remaining steps of feature cleaning/engineering and model deployment are in the second notebook: Part2_Keras_project.
